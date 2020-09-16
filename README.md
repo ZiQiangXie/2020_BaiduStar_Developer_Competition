@@ -1,1 +1,1 @@
-# 2020_BaiduStar_Developer_Competition
+2020百度之星开发者大赛：交通标识检测与场景匹配 方案简介
