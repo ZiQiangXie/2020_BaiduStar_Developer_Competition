@@ -1,1 +1,0 @@
-python tools/eval.py -c configs/traffic/cascade_rcnn_cls_aware_dcn_x101_vd_64x4d_fpn_nonlocal_softnms_test.yml -o weights=output/cascade_rcnn_cls_aware_dcn_x101_vd_64x4d_fpn_nonlocal_softnms/400000.pdparams save_prediction_only=true
