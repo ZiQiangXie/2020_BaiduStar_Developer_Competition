@@ -1,0 +1,1 @@
+python eval_pair.py --pretrained_model=output_pair/ResNet50/52000.pdparams --data_path=../../data/traffic_data/test --detect_path=../PaddleDetection_traffic/output/detect --thersh=0.66 --output_path=output/result --test_pic_path=../../data/traffic_data/test/pic
