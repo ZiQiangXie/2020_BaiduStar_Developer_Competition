@@ -41,8 +41,11 @@
 - 验证集：从全部数据集中随机挑选约 20%左右的数据作为验证集，仅仅作为查看模型效果的参考，不作为选模型依据；
 
 - 数据统计脚本：
+
 |训练集目标宽高区间统计|训练集各类别目标数量统计|
+
 |:---|:---|
+
 |PaddleDetection_traffic/Cal_target.py|PaddleDetection_traffic/baidu_data.py|
 
  
